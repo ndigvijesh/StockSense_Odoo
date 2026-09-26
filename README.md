@@ -1,4 +1,5 @@
 # StockSense IMS
+StockSense - Inventory Management System
 
 StockSense is a modular inventory operations starter with a React/Vite client, a Spring Boot REST API, and MySQL persistence. It includes product catalogue and reorder points, multi-warehouse balances, draft receipts/deliveries/transfers/adjustments, transactional validation, a stock movement ledger, dashboard KPIs, bearer-session authentication, and OTP password reset.
 
